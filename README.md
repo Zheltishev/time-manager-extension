@@ -1,1 +1,1 @@
-# time-manager-extension
+# Time manager extension
